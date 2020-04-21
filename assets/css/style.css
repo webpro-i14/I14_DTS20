@@ -134,7 +134,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 }
 
 .nav-menu .get-started a {
-  background: #eb5d1e;
+  background: #5c1eeb;
   color: #fff;
   border-radius: 50px;
   margin: 0 15px;
@@ -142,7 +142,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 }
 
 .nav-menu .get-started a:hover {
-  background: #ee7843;
+  background: #7943ee;
   color: #fff;
 }
 
